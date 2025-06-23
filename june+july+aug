@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Highlights ✨</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fffaf5;
+      text-align: center;
+      padding: 30px;
+      color: #444;
+    }
+    h1 {
+      color: #e96b6b;
+      font-size: 36px;
+    }
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 30px;
+    }
+    .grid img {
+      width: 250px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+      transition: transform 0.3s ease;
+    }
+    .grid img:hover {
+      transform: scale(1.05);
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      color: #e96b6b;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Our Highlights ✨</h1>
+  <p>A collection of our sweetest memories.</p>
+  
+  <div class="grid">
+    <!-- Replace the image names below with the real filenames -->
+    <img src="74488833188__EF7E53F3-B4DA-4727-B8C0-2E638852EA0E" alt="the first photo i took of you, on the deck before the movies">
+    <img src="74094037286__2623B3E1-9A3E-4A6E-ABB9-E48D3B1F2EC0" alt="leaving your house for the first time, thought id capture the moment!">
+    <img src="74316107072__9DDA4AB1-978A-4569-AE38-9CF73945D5E0" alt="first time we went out for dinner, beer+sale pepe, i started working there again after this">
+    <img src="74488827814__7BA18D94-A0F0-4DF3-9CB3-1596C464BCA6" alt="heres the fire i had to craft cause u couldn't">
+    <img src="IMG_6863.jpg" alt="experiencing your first fourth village delicacy">
+    <img src="IMG_7018.jpg" alt="our first shopping trip together, unfortunately not our last. - u wanted the same shoes as me, twin">
+    <img src="IMG_7051.jpg" alt="tribute to my first wardrobe">
+    <img src="IMG_5654.png" alt="this one wasnt what propted the superlike">
+    <img src="74547785742__0A01A796-5542-45A1-A2DF-816FDEB34D1E" alt="memory 3">
+    <img src="74583778059__9772CCFD-E088-4650-BBD8-2EFF496D571B" alt="memory 3">
+    <img src="74632324866__E3911064-E363-4AA6-8FA9-281758389283" alt="memory 3">
+    <img src="74632324866__E3911064-E363-4AA6-8FA9-281758389283" alt="memory 3">
+    <img src="IMG_2560.jpg" alt="memory 3">
+    <img src="IMG_7013.jpg" alt="memory 3">
+    <img src="IMG_7015.jpg" alt="memory 3"> 
+    <img src="IMG_7102.jpg" alt="memory 3">
+    <img src="IMG_7103.jpg" alt="memory 3">
+    <img src="IMG_7164.jpg" alt="memory 3">
+    <img src="IMG_7182.jpg" alt="memory 3">
+    <img src="IMG_7312.jpg" alt="memory 3">
+    <img src="IMG_7485.jpg" alt="memory 3">
+    <img src="IMG_7486.jpg" alt="memory 3">
+    <img src="IMG_7489.m4v" alt="memory 3">
+    <img src="IMG_7490.jpg" alt="memory 3">
+    <img src="IMG_7491.m4v" alt="memory 3">
+    <img src="IMG_7549.png" alt="memory 3">
+    <img src="IMG_7688.jpg" alt="memory 3">
+    <img src="IMG_7689.jpg" alt="memory 3">
+    <img src="IMG_7690.jpg" alt="memory 3">
+    <img src="img-7691_aTAkAn3J.mp4" alt="memory 3">
+    <img src="IMG_7695.jpg" alt="memory 3">
+    <img src="IMG_7697.jpg" alt="memory 3">
+    <img src="IMG_7701.jpg" alt="memory 3">
+    <img src="IMG_7702.jpg" alt="memory 3">
+    <img src="74684645772__023C5584-E84B-4711-8B87-5E6AB81C9BB0" alt="memory 3">
+    <img src="IMG_7760.jpg" alt="memory 3">
+    <img src="IMG_7763.jpg" alt="memory 3">
+    
+    
+    <!-- Add more as needed -->
+  </div>
+
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
